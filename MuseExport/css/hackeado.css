@@ -1,0 +1,162 @@
+.html
+{
+	background: #FFFFFF url("../images/old-fashioned-textile-texture-27382641.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 865px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F2DCBB;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: 52px;
+	margin-bottom: 3px;
+}
+
+#u136-4
+{
+	z-index: 2;
+	width: 988px;
+	min-height: 73px;
+	line-height: 59px;
+	font-size: 49px;
+	font-weight: bold;
+	margin-left: 8px;
+	position: relative;
+}
+
+#pu157
+{
+	width: 0.01px;
+	margin-left: 178px;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u157
+{
+	z-index: 12;
+	width: 604px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u167
+{
+	z-index: 14;
+	width: 322px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 141px;
+}
+
+#u167_img
+{
+	padding-bottom: 1px;
+}
+
+#u188
+{
+	z-index: 16;
+	width: 573px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #BF9E6B;
+	-moz-border-radius: 10px 0px 10px 10px ;
+	-webkit-border-radius: 10px 0px 10px 10px ;
+	-khtml-border-radius: 10px 0px 10px 10px ;
+	border-radius: 10px 0px 10px 10px ;
+	padding-bottom: 17px;
+	margin-left: 190px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#u190-4
+{
+	z-index: 17;
+	width: 542px;
+	min-height: 27px;
+	line-height: 28px;
+	text-align: center;
+	font-size: 23px;
+	font-weight: bold;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 14px;
+}
+
+#u191
+{
+	z-index: 21;
+	width: 364px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #BF9E6B;
+	-moz-border-radius: 10px 0px 10px 10px ;
+	-webkit-border-radius: 10px 0px 10px 10px ;
+	-khtml-border-radius: 10px 0px 10px 10px ;
+	border-radius: 10px 0px 10px 10px ;
+	padding-bottom: 1px;
+	margin-left: 293px;
+	margin-top: 17px;
+	position: relative;
+}
+
+#u192-4
+{
+	z-index: 22;
+	width: 210px;
+	min-height: 34px;
+	line-height: 28px;
+	text-align: center;
+	font-size: 23px;
+	font-weight: bold;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 77px;
+}
+
+#u190,#u192
+{
+	text-decoration: underline;
+}
+
+#u143-6
+{
+	z-index: 6;
+	width: 427px;
+	min-height: 33px;
+	font-weight: bold;
+	margin-left: 6px;
+	margin-top: 48px;
+	position: relative;
+}
+
+#u143-4
+{
+	font-size: 9px;
+	line-height: 11px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

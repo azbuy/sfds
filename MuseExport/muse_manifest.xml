@@ -1,0 +1,27 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="hackeado.css" crc="397350476" ref="hackeado"/>
+    <file name="index.css" crc="75304185" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="success-chime-3-sound-effect.mp3" crc="297368281" mt="1473460006000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:hackeado"/>
+    <file name="museutils.js" crc="3865766194" ref="index:hackeado"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:hackeado"/>
+    <file name="pie.js" crc="3827607177" ref="hackeado"/>
+  </folder>
+  <folder name="images">
+    <file name="old-fashioned-textile-texture-27382641.jpg" crc="62781812" ref="index:hackeado"/>
+    <file name="botn-rojo.png" crc="321947505" ref="index"/>
+    <file name="se-creo-la-nasa-600x310-u98.jpg" crc="3823942271" ref="index"/>
+    <file name="af.jpg" crc="4285851786" ref="index"/>
+    <file name="todo-lo-que-necesitas-saber-sobre-isis-estado-islamico-1.jpg" crc="56357438" ref="index"/>
+    <file name="cinco-peruanos-destacan-en-la-nasa-246404-jpg_604x0.jpg" crc="152500084" ref="hackeado"/>
+    <file name="correct-tick-clipart-best-zljug2-clipart.png" crc="4032545086" ref="hackeado"/>
+  </folder>
+  <file name="index.html" crc="3983231928" mt="1473460760290" redirect="true"/>
+  <file name="hackeado.html" crc="351673040" mt="1473460742786" redirect="true"/>
+</manifest>
